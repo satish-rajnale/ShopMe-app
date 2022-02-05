@@ -10,3 +10,4 @@ The apk files can be found in `ShopMe apk` folder
 <img src="https://github.com/satish-rajnale/ShopMe-app/blob/main/assets/2.jpeg" alt="Home" width="400" hright="auto" />
 ## Cart
 -- cart page for checking out with selected products
+<img src="https://github.com/satish-rajnale/ShopMe-app/blob/main/assets/3.jpeg" alt="Home" width="400" hright="auto" />
